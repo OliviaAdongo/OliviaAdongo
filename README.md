@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/olivia adongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivia adongo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/olivia-adongo-b87546195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivia (akinyi) adongo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/olivia_adongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="olivia_adongo" height="30" width="40" /></a>
 </p>
 
