@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olivia Adongo</h1>
 <h3 align="center">A passionate fullStack developer</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Javascript, React, Ruby, Ruby on Rails, Python**
+- 💬 Ask me about **Javascript, React, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **adongoolivia0698@gmail.com**
 
